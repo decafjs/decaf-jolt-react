@@ -1,0 +1,24 @@
+{
+    "name"         : "decaf-jolt-react-test",
+    "version"      : "0.0.1",
+    "authors"      : [
+        "Mike Schwartz <mike@moduscreate.com>"
+    ],
+    "description"  : "Test app for decaf-jolt-react",
+    "main"         : "boot.js",
+    "keywords"     : [
+        "react",
+        "rhino",
+        "JavaScript",
+        "Sync"
+    ],
+    "license"      : "MIT",
+    "homepage"     : "http://moduscreate.com",
+    "private"      : "true",
+    "dependencies" : {
+        "decaf"              : "git://github.com/decafjs/decaf#master",
+        "decaf-jolt"         : "git://github.com/decafjs/decaf-jolt#master",
+        "decaf-jolt-static"  : "git://github.com/decafjs/decaf-jolt-static#master",
+        "decaf-jolt-react"   : "git://github.com/decafjs/decaf-jolt-react#master"
+    }
+}

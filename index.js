@@ -1,4 +1,4 @@
 decaf.extend(exports, {
-    ReactServer: require('lib/ReactServer')
+    ReactServer: require('lib/ReactServer').ReactServer
 });
 
