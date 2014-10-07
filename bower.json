@@ -5,7 +5,9 @@
   "ignore": [
   ],
   "dependencies": {
-    "react" : "*"
+    "react" : "*",
+    "git://github.com/decafjs/decaf" : "*",
+    "git://github.com/decafjs/decaf-jolt" : "*"
   },
   "devDependencies": {
   }
