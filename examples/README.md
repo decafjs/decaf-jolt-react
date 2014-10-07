@@ -12,3 +12,13 @@ To run the example:
 ```
 Then point your browser at http://localhost:9090/
 
+Decaf and Jolt allow you to edit your .jsx files and reload your browser without having a watch program or doing a
+command line compile of the .jsx to .js.  To see this in action:
+
+1) Point your browser at http://localhost:9090/hello2.
+2) Edit jsx/hello.jsx and change the text in the <h1> tag.
+3) Save the file.
+4) Reload your brower.
+
+You should see the original "Hello, world!" text change, as your edit dictates.
+
