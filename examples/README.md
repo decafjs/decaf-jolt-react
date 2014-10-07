@@ -16,7 +16,7 @@ Decaf and Jolt allow you to edit your .jsx files and reload your browser without
 command line compile of the .jsx to .js.  To see this in action:
 
 1) Point your browser at http://localhost:9090/hello2.
-2) Edit jsx/hello.jsx and change the text in the <h1> tag.
+2) Edit jsx/hello.jsx and change the text in the &lt;h1> tag.
 3) Save the file.
 4) Reload your brower.
 
