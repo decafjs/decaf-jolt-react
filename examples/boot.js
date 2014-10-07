@@ -6,7 +6,7 @@ var Application = require('decaf-jolt').Application,
 
 app.verb('/', new StaticFile('index.html'));
 app.verb('bower_components', new StaticServer('bower_components'));
-app.verb('hello', new StaticFile('helloworld.html'));
+app.verb('hello', new StaticFile('hello1.html'));
 app.verb('hello2', new StaticFile('hello2.html'));
 app.verb('jsx', new ReactServer('jsx'));
 
