@@ -7,7 +7,7 @@
   "dependencies": {
     "decaf"              : "git://github.com/decafjs/decaf#master",
     "decaf-jolt"         : "git://github.com/decafjs/decaf-jolt#master",
-    "decaf-react"        : "git://github.com/decaf-react#master"
+    "decaf-react"        : "git://github.com/decafjs/decaf-react#master"
   },
   "devDependencies": {
   }
