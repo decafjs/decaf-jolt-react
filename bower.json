@@ -5,7 +5,7 @@
   "ignore": [
   ],
   "dependencies": {
-    "react" : "*",
+    "git://gibhut.com/decaf-react" : "*",
     "git://github.com/decafjs/decaf" : "*",
     "git://github.com/decafjs/decaf-jolt" : "*"
   },
