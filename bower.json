@@ -5,9 +5,9 @@
   "ignore": [
   ],
   "dependencies": {
-    "git://gibhut.com/decaf-react" : "*",
-    "git://github.com/decafjs/decaf" : "*",
-    "git://github.com/decafjs/decaf-jolt" : "*"
+    "decaf"              : "git://github.com/decafjs/decaf#master",
+    "decaf-jolt"         : "git://github.com/decafjs/decaf-jolt#master",
+    "decaf-react"        : "git://gibhut.com/decaf-react#master"
   },
   "devDependencies": {
   }
